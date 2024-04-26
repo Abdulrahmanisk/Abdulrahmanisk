@@ -13,6 +13,6 @@ Hey there! I'm Abdulrahman Iskandar, a detail-oriented and innovative recent bac
 ---
 
 
-<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
