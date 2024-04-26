@@ -4,10 +4,10 @@ Hey there! I'm Abdulrahman Iskandar, a detail-oriented and innovative recent bac
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahman-isk) 
+[![LinkedIn](https://skillicons.dev/icons?i=js,linkedin)](https://linkedin.com/in/abdulrahman-isk) 
 
 ### 💻 My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,swift,react,androidstudio,discord,docker,github,git,htmx,java,py,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,swift,react,androidstudio,discord,docker,github,git,htmx,java,py,visualstudio)]
 
 
 
