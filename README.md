@@ -13,7 +13,7 @@ Hey there! I'm Abdulrahman Iskandar, a detail-oriented and innovative recent bac
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdulrahmanisk&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
